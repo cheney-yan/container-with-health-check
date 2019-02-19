@@ -1,0 +1,9 @@
+{
+  "Version": "1",
+  "Timestamp": "2019-02-19T06:30:03.8018Z",
+  "IsHealthy": true,
+  "Unhealthy": {},
+  "Healthy": {
+    "Example docker image health check": "OK"
+  }
+}
